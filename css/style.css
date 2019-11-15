@@ -3,12 +3,34 @@
   margin: 0;
   padding: 0;
 }
+.main{
 
-.container{
+}
+.container1{
   position: relative;
   height: 100vh;
   width: 100%;
   background-image: url(https://www.viaggiareverde.it/wp-content/uploads/2018/02/Stoccolma-Cosa-Vedere.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.container2{
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  background-image: url(https://www.aviontourism.com/images/1920-900-fix/0ef886e3-765b-4f99-89d8-d4336d1ca6ce);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.container3{
+  position: relative;
+  height: 100vh;
+  width: 100;
+  background-image: url(https://images2.bovpg.net/fw/back/it/sale/f0fe6b311bf4ab.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
