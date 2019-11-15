@@ -24,6 +24,7 @@
   color: white;
   text-shadow: 3px 3px 5px black;
 }
+
 .layover{
   position: absolute;
   top: 0;
@@ -31,10 +32,9 @@
   height: 100%;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.5);
-  display: block;
 }
 
-.container:hover {
+.layover:hover {
   cursor: pointer;
-  
+  background-color: rgba(0, 0, 0, 0);
 }
