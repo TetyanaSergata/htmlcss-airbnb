@@ -6,22 +6,23 @@
 
 .main{
   margin: 10px;
-
 }
 
+/* valori comuni */
 .container1,
 .container2,
 .container3{
   position: relative;
   height: 100vh;
   width: 100%;
+  border: 1px solid black;
+  margin-bottom: 20px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  margin-bottom: 20px;
-  border: 1px solid black;
   box-shadow: 7px 7px 10px black;
 }
+/* fine valori comuni */
 
 .container1{
   background-image: url(https://www.viaggiareverde.it/wp-content/uploads/2018/02/Stoccolma-Cosa-Vedere.jpg);
